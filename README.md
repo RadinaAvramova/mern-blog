@@ -1,2 +1,1 @@
 # mern-blog
-mern-blog
